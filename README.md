@@ -1,6 +1,6 @@
 # Solo Fútbol
 
-App Android con canales de TV gratuitos dedicados solo al fútbol (FIFA+, Real Madrid TV, TOP Barça y otros canales oficiales de acceso libre).
+App Android con canales de TV gratuitos de fútbol y deportes (FIFA+, Real Madrid TV, TOP Barça y otros canales oficiales de acceso libre).
 
 ## Instalar
 
