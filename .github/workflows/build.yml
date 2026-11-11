@@ -38,7 +38,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v1.0.${{ github.run_number }}
-          name: Solo Fútbol v1.0.${{ github.run_number }}
+          name: Solo Futbol v1.0.${{ github.run_number }}
           body: Descarga **SoloFutbol.apk** desde el celular e instálala.
           files: SoloFutbol.apk
           make_latest: true
