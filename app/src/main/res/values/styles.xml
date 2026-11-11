@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cancha">#0E3B2A</color>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#0E3B2A</item>
+        <item name="android:colorPrimaryDark">#0B1410</item>
+        <item name="android:colorAccent">#FFB238</item>
+        <item name="android:windowBackground">#0B1410</item>
+        <item name="android:statusBarColor">#0B1410</item>
+        <item name="android:navigationBarColor">#0B1410</item>
+    </style>
+    <style name="PlayerTheme" parent="android:Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:colorAccent">#FFB238</item>
+    </style>
+</resources>
